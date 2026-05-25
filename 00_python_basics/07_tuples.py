@@ -106,8 +106,8 @@ def tuple_immutability():
 
 
 def main():
-    # print("\n--- CREATE TUPLE ---")
-    # create_tuple()
+    print("\n--- CREATE TUPLE ---")
+    create_tuple()
 
     # print("\n--- ACCESS ELEMENTS ---")
     # access_elements()
